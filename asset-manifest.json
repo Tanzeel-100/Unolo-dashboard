@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unolo-dashboard/static/css/main.d8418f3a.css",
+    "main.js": "/unolo-dashboard/static/js/main.35a7814c.js",
+    "static/media/Help.png": "/unolo-dashboard/static/media/Help.c3f54196497a826a88b9.png",
+    "static/media/Settings.png": "/unolo-dashboard/static/media/Settings.1a208b4a4aab2a0c6822.png",
+    "index.html": "/unolo-dashboard/index.html",
+    "main.d8418f3a.css.map": "/unolo-dashboard/static/css/main.d8418f3a.css.map",
+    "main.35a7814c.js.map": "/unolo-dashboard/static/js/main.35a7814c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8418f3a.css",
+    "static/js/main.35a7814c.js"
+  ]
+}
