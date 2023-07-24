@@ -1,0 +1,17 @@
+.top-navbar{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
+}
+
+.navbar-icons{
+    background-color:white;
+    border-radius:20px;
+    margin-right:10px;
+    margin-top:5px
+}
+
+.navbar-icon{
+    height: 20px;
+    margin: 10px;
+}

@@ -1,0 +1,21 @@
+.lowerNav-tabs{
+    color: black !important;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.lowerNav-tabs :hover{
+    color: blue;
+    background-color: #1976D2 !important;
+}
+
+.attendance-status-button{
+    display:flex;
+    flex-direction:row;
+    background-color:#0F45FF;
+    height:80%
+}
+
+.attendance-status-download{
+    margin-right:5px
+}
